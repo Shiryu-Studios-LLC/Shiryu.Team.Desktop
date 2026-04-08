@@ -1,10 +1,10 @@
 [submodule "ShiryuTeam/vendor/imgui/src"]
 	path = ShiryuTeam/vendor/imgui/src
-	url = https://github.com/Shiryu-Studios-LLC/imgui-1
+	url = https://github.com/Shiryu-Studios-LLC/imgui
 	branch = docking
 [submodule "vendor/imgui"]
 	path = vendor/imgui
-	url = https://github.com/Shiryu-Studios-LLC/imgui-1
+	url = https://github.com/Shiryu-Studios-LLC/imgui
 	branch = docking
 [submodule "vendor/glfw"]
 	path = vendor/glfw
