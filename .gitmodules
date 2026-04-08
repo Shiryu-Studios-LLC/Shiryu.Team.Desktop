@@ -1,5 +1,5 @@
-[submodule "Walnut/vendor/imgui/src"]
-	path = Walnut/vendor/imgui/src
+[submodule "ShiryuTeam/vendor/imgui/src"]
+	path = ShiryuTeam/vendor/imgui/src
 	url = https://github.com/ocornut/imgui
 	branch = docking
 [submodule "vendor/imgui"]
@@ -21,6 +21,6 @@
 [submodule "vendor/yaml-cpp"]
 	path = vendor/yaml-cpp
 	url = https://github.com/TheCherno/yaml-cpp
-[submodule "Walnut-Modules/Walnut-Networking"]
-	path = Walnut-Modules/Walnut-Networking
+[submodule "ShiryuTeam-Modules/ShiryuTeam-Networking"]
+	path = ShiryuTeam-Modules/ShiryuTeam-Networking
 	url = https://github.com/StudioCherno/Walnut-Networking
