@@ -1,4 +1,4 @@
-project "Shiryu.Launcher"
+project "ShiryuTeam.Launcher"
    kind "ConsoleApp"
    language "C++"
    cppdialect "C++20"

@@ -1,22 +1,22 @@
-# Shiryu.Launcher
+# ShiryuTeam.Launcher
 
-The central hub for the Shiryu Ecosystem - launch and manage all your Shiryu apps from one place.
+The central hub for the ShiryuTeam Ecosystem - launch and manage all your ShiryuTeam apps from one place.
 
 ## Overview
 
-Shiryu.Launcher is the main desktop application that provides:
-- **Authentication** - Login to your Shiryu account
-- **App Catalog** - Browse available Shiryu apps
+ShiryuTeam.Launcher is the main desktop application that provides:
+- **Authentication** - Login to your ShiryuTeam account
+- **App Catalog** - Browse available ShiryuTeam apps
 - **App Management** - Install, launch, and manage your apps
 - **Settings** - Configure your launcher preferences
 
 ## Related Repos
 
-- [Shiryu.Api](https://github.com/Shiryu-Studios-LLC/Shiryu.Api) - Backend API (Cloudflare Workers)
-- [Shiryu.Dev](https://github.com/Shiryu-Studios-LLC/Shiryu.Dev) - Development environment app
-- [Shiryu.Projects](https://github.com/Shiryu-Studios-LLC/Shiryu.Projects) - Project management app
-- [Shiryu.Cloud](https://github.com/Shiryu-Studios-LLC/Shiryu.Cloud) - Cloudflare management app
-- [Shiryu.Teams](https://github.com/Shiryu-Studios-LLC/Shiryu.Teams) - Team collaboration app
+- [ShiryuTeam.Api](https://github.com/Shiryu-Studios-LLC/ShiryuTeam.Api) - Backend API (Cloudflare Workers)
+- [ShiryuTeam.Dev](https://github.com/Shiryu-Studios-LLC/ShiryuTeam.Dev) - Development environment app
+- [ShiryuTeam.Projects](https://github.com/Shiryu-Studios-LLC/ShiryuTeam.Projects) - Project management app
+- [ShiryuTeam.Cloud](https://github.com/Shiryu-Studios-LLC/ShiryuTeam.Cloud) - Cloudflare management app
+- [ShiryuTeam.Teams](https://github.com/Shiryu-Studios-LLC/ShiryuTeam.Teams) - Team collaboration app
 
 ## Tech Stack
 

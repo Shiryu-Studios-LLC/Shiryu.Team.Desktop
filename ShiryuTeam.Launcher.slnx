@@ -5,7 +5,7 @@
     <BuildType Name="Release" />
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="ShiryuTeamApp\ShiryuTeamApp.vcxproj" Id="712E19C9-DDEE-94FF-A629-DE7C12A9D9DB" DefaultStartup="true">
+  <Project Path="Shiryu.Launcher\Shiryu.Launcher.vcxproj" Id="C95C082D-35E8-75F1-3EF9-F8E5AA03D2F1" DefaultStartup="true">
   </Project>
   <Folder Name="/Core/">
     <Project Path="ShiryuTeam\ShiryuTeam.vcxproj" Id="1065CD28-FC1C-0F76-6524-E8D151FBA966">
